@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BaiTH3_4.TH3
+namespace Bai4
 {
     class HocSinh
     {
